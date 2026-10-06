@@ -159,7 +159,7 @@ else
 
     echo "==> Installing Solana CLI..."
 
-    sh -c "$(curl -sSfL https://release.anza.xyz/stable/install)"
+    sh -c "$(curl -sSfL https://release.anza.xyz/v4.4.0-beta.0/install)"
 
 fi
 
