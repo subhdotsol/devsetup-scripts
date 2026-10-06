@@ -1,0 +1,2 @@
+chmod:
+	find . -name "*.sh" -type f -exec chmod +x {} +
